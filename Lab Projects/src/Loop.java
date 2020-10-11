@@ -1,4 +1,4 @@
-public class Loop {
+public class Loop { //Excellent!
 
     public static void main(String[] args){
         System.out.println("-------Numbers-------");
