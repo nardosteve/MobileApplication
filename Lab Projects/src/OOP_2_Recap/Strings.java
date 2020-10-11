@@ -1,6 +1,6 @@
 package OOP_2_Recap;
 
-public class Strings {
+public class Strings {//Excellent!
 
     public static void main(String[] args){
         String hello = "Hello";
