@@ -1,4 +1,4 @@
-public class loop_two {
+public class loop_two {//Excellent!
 
     public static void main(String[] args){
         //Number between 23 - 32
