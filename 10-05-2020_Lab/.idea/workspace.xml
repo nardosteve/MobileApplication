@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2f9e081-c46c-4b09-ae05-9a8c6341ceff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileApplication_05_10_2020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MobileApplication_05_10_2020/Loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MobileApplication_05_10_2020/META-INF/MobileApplication_05_10_2020.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MobileApplication_05_10_2020/OOP_2_Recap/Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MobileApplication_05_10_2020/OOP_2_Recap/conditionIfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MobileApplication_05_10_2020/OOP_2_Recap/firstProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MobileApplication_05_10_2020/OOP_2_Recap/javaVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MobileApplication_05_10_2020/OOP_2_Recap/operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MobileApplication_05_10_2020/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MobileApplication_05_10_2020/loop_two.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_2_Recap/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_2_Recap/conditionIfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_2_Recap/firstProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_2_Recap/javaVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_2_Recap/operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop_two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabWork/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iRsiOMZow6Cm089G7jf12eY5qX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab Projects" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Submission">
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_2_Recap.Strings" />
+      <module name="Lab Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_2_Recap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Submission" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabAssigment.Submission" />
+      <module name="Lab Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LabAssigment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="conditionIfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_2_Recap.conditionIfStatement" />
+      <module name="Lab Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_2_Recap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_2_Recap.javaVariables" />
+      <module name="Lab Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_2_Recap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_2_Recap.operators" />
+      <module name="Lab Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_2_Recap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Submission" />
+        <item itemvalue="Application.conditionIfStatement" />
+        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.operators" />
+        <item itemvalue="Application.javaVariables" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2f9e081-c46c-4b09-ae05-9a8c6341ceff" name="Default Changelist" comment="" />
+      <created>1601881864161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601881864161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601883016799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601883016799" />
+    <state x="512" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602356688440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602356688440" />
+    <state x="473" y="169" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1601883590667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="169" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601883590667" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602435386863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602435386863" />
+    <state width="1493" height="300" key="GridCell.Tab.0.bottom" timestamp="1602396890590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602396890590" />
+    <state width="1493" height="300" key="GridCell.Tab.0.center" timestamp="1602396890590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602396890590" />
+    <state width="1493" height="300" key="GridCell.Tab.0.left" timestamp="1602396890590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602396890590" />
+    <state width="1493" height="300" key="GridCell.Tab.0.right" timestamp="1602396890590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602396890590" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1602358285291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602358285291" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601974459506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601974459506" />
+  </component>
+</project>
